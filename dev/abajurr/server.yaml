@@ -2,6 +2,5 @@ name: Abajurr
 icon: https://i.imgur.com/inn4BF1.png
 
 channels:
-  chat-geral:
-    name: Chat
+  - name: Chat
     type: text
