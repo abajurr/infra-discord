@@ -4,10 +4,12 @@ icon: "https://i.imgur.com/inn4BF1.png"
 roles:
   - name: admin
     color: red
+    hoist: true
     users: [ 364565465898418177 ]
   
   - name: tester
     color: green
+    hoist: true
   
   - name: member
     color: blue
