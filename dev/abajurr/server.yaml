@@ -1,6 +1,16 @@
 name: Abajurr
 icon: "https://i.imgur.com/inn4BF1.png"
 
+roles:
+  - name: admin
+    color: red
+  
+  - name: tester
+    color: green
+  
+  - name: member
+    color: blue
+
 categories:
   - geral
   - avisos
