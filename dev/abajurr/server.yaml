@@ -1,7 +1,9 @@
 name: Abajurr
 icon: https://i.imgur.com/inn4BF1.png
 
-categories: [ "geral", "avisos" ]
+categories:
+  - geral
+  - avisos
 
 channels:
   - name: chat-geral
