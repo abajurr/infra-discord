@@ -10,9 +10,11 @@ roles:
   - name: tester
     color: green
     hoist: true
+    users: [ 965284905011519588 ]
   
   - name: member
     color: blue
+    users: [ 932303792584667186 ]
 
 categories:
   - geral
