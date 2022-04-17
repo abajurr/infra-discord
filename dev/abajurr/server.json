@@ -1,0 +1,15 @@
+{
+  "name": "Abajurr",
+  "icon": "https://i.imgur.com/inn4BF1.png",
+  "categories": [
+    {
+      "name": "Geral",
+      "channels": [
+        {
+          "name": "chat-geral",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,19 @@
-name: "Abajurr"
-icon: "https://i.imgur.com/inn4BF1.png"
+name: Abajurr
+icon: https://i.imgur.com/inn4BF1.png
+
+categories:
+  - geral
+  - avisos
 
 channels:
-  chat-geral:
-    name: "Chat"
+  - name: chat-geral
+    category: geral
     type: text
+  
+  - name: noticias
+    category: avisos
+    type: text
+  
+  - name: voz-01
+    category: geral
+    type: voice
