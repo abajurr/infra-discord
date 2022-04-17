@@ -4,6 +4,7 @@ icon: "https://i.imgur.com/inn4BF1.png"
 roles:
   - name: admin
     color: red
+    users: [ 364565465898418177 ]
   
   - name: tester
     color: green
